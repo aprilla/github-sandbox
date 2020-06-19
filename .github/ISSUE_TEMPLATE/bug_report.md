@@ -1,38 +1,30 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+[NOTE]: # ( ^^ Provide a general summary of the issue in the title above. ^^ )
 
----
+## Description
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+[NOTE]: # ( Describe the problem you're encountering. )
+[TIP]:  # ( Do NOT give us access or passwords to your New Relic account or API keys! )
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Steps to Reproduce
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+[NOTE]: # ( Please be as specific as possible. )
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Expected Behavior
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+[NOTE]: # ( Tell us what you expected to happen. )
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## NR Diag results
 
-**Additional context**
-Add any other context about the problem here.
+[NOTE]: # ( Provide any other relevant log data. )
+
+## Your Environment
+
+[TIP]:  # ( Include as many relevant details about your environment as possible including the running version of New Relic software and any relevant configurations. )
+
+## Reproduction case
+
+[TIP] # ( Link a sample application that demonstrates the issue. )
+
+## Additional context
+
+[TIP]:  # ( Add any other context about the problem here. )
