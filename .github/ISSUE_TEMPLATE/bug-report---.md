@@ -1,3 +1,12 @@
+---
+name: "Bug report \U0001F41B"
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: ''
+
+---
+
 [NOTE]: # ( ^^ Provide a general summary of the issue in the title above. ^^ )
 
 ## Description
