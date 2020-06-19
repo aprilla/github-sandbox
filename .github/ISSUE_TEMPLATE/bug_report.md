@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: ''
+
+---
+
 [NOTE]: # ( ^^ Provide a general summary of the issue in the title above. ^^ )
 
 ## Description
@@ -23,7 +32,7 @@
 
 ## Reproduction case
 
-[TIP] # ( Link a sample application that demonstrates the issue. )
+[TIP]: # ( Link a sample application that demonstrates the issue. )
 
 ## Additional context
 
