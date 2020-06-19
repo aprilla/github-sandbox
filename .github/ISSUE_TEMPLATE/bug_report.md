@@ -1,12 +1,3 @@
----
-name: Bug report
-about: Describe a scenario in which this project behaves unexpectedly
-title: ''
-labels: bug, needs-triage
-assignees: ''
-
----
-
 [NOTE]: # ( ^^ Provide a general summary of the issue in the title above. ^^ )
 
 ## Description
@@ -18,20 +9,21 @@ assignees: ''
 
 [NOTE]: # ( Please be as specific as possible. )
 
-## Expected Behaviour
+## Expected Behavior
 
 [NOTE]: # ( Tell us what you expected to happen. )
 
-## Relevant Logs / Console output
+## NR Diag results
 
-[NOTE]: # ( Please provide specifics of the local error logs, Browser Dev Tools console, etc. if appropriate and possible. )
+[NOTE]: # ( Provide any other relevant log data. )
 
 ## Your Environment
 
-[TIP]:  # ( Include as many relevant details about your environment as possible. )
+[TIP]:  # ( Include as many relevant details about your environment as possible including the running version of New Relic software and any relevant configurations. )
 
-* ex: Browser name and version:
-* ex: Operating System and version:
+## Reproduction case
+
+[TIP] # ( Link a sample application that demonstrates the issue. )
 
 ## Additional context
 
