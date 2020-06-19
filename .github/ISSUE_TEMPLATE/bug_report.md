@@ -23,7 +23,7 @@
 
 ## Reproduction case
 
-[TIP]: # ( Link a sample application that demonstrates the issue. )
+[TIP] # ( Link a sample application that demonstrates the issue. )
 
 ## Additional context
 
