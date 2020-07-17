@@ -35,12 +35,12 @@ If the issue has been confirmed as a bug or is a Feature request, please file a 
 
 **Support Channels**
 >[
-* [New Relic Documentation](LINK to specific docs page): Comprehensive guidance for using our platform
-* [New Relic Community](LINK to specific community page): The best place to engage in troubleshooting questions
-* [New Relic Developer](https://developer.newrelic.com/): Resources for building a custom observability applications
-* [New Relic University](https://learn.newrelic.com/): A range of online training for New Relic users of every level
-* **Optional, this section for heavily supported capabilities** [New Relic Technical Support](https://support.newrelic.com/) 24/7/365 ticketed support. Read more about our [Technical Support Offerings](https://docs.newrelic.com/docs/licenses/license-information/general-usage-licenses/support-plan). 
-]
+> * [New Relic Documentation](LINK to specific docs page): Comprehensive guidance for using our platform
+> * [New Relic Community](LINK to specific community page): The best place to engage in troubleshooting questions
+> * [New Relic Developer](https://developer.newrelic.com/): Resources for building a custom observability applications
+> * [New Relic University](https://learn.newrelic.com/): A range of online training for New Relic users of every level
+> * **Optional, this section for heavily supported capabilities** [New Relic Technical Support](https://support.newrelic.com/) 24/7/365 ticketed support. Read more about our [Technical Support Offerings](https://docs.newrelic.com/docs/licenses/license-information/general-usage-licenses/support-plan). 
+> ]
 
 ## Privacy
 At New Relic we take your privacy and the security of your information seriously, and are committed to protecting your information. We must emphasize the importance of not sharing personal data in public forums, and ask all users to scrub logs and diagnostic information for sensitive information, whether personal, proprietary, or otherwise.
